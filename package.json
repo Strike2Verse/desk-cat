@@ -1,0 +1,17 @@
+{
+  "name": "desk-cat",
+  "version": "1.0.0",
+  "description": "A 3D desktop cat companion that roams, sleeps, and reacts to your mouse.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.0.0"
+  },
+  "dependencies": {
+    "three": "^0.169.0"
+  }
+}
